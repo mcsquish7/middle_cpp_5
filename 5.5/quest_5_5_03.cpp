@@ -92,4 +92,5 @@ int main()
     {
         cerr << e.what() << endl;
     }
+    return 0;
 }
